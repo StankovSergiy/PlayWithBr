@@ -1,5 +1,9 @@
 package com.staser.playwithbr;
-
+//comments
+//comments
+//comments
+//comments
+//new one
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 
